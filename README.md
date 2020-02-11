@@ -20,9 +20,9 @@ Recent versions of the following packages for Python 3 are required:
 ### Datasets
 
 The preprocessed datasets are available at:
-* IMDb - [Dropbox](https://www.dropbox.com/s/g0btk9ctr1es39x/IMDB_processed.zip?dl=0) / [Baidu](https://pan.baidu.com/s/1xLBpcgDvb__HAy9PV0d6oA) (qdng)
-* DBLP - [Dropbox](https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=0) / [Baidu](https://pan.baidu.com/s/1RVPDvFuqdAxbFXpKoGGiTA) (fa6l)
-* Last.fm - [Dropbox](https://www.dropbox.com/s/jvlbs09pz6zwcka/LastFM_processed.zip?dl=0) / [Baidu](https://pan.baidu.com/s/1Zd-W91x-14qO1mjz6-sDUg) (sv7b)
+* IMDb - [Dropbox](https://www.dropbox.com/s/g0btk9ctr1es39x/IMDB_processed.zip?dl=0)
+* DBLP - [Dropbox](https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=0)
+* Last.fm - [Dropbox](https://www.dropbox.com/s/jvlbs09pz6zwcka/LastFM_processed.zip?dl=0)
 
 ### Usage
 
