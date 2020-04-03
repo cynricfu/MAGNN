@@ -10,12 +10,14 @@ Available at [arXiv:2002.01680](https://arxiv.org/abs/2002.01680).
 ### Dependencies
 
 Recent versions of the following packages for Python 3 are required:
-* PyTorch 1.2.0+
-* DGL 0.3.1+
-* NetworkX 2.3+
-* scikit-learn 0.21.3+
-* NumPy 1.17.2+
-* SciPy 1.3.1+
+* PyTorch 1.2.0
+* DGL 0.3.1
+* NetworkX 2.3
+* scikit-learn 0.21.3
+* NumPy 1.17.2
+* SciPy 1.3.1
+
+Dependencies for the preprocessing code are not listed here.
 
 ### Datasets
 
@@ -23,6 +25,8 @@ The preprocessed datasets are available at:
 * IMDb - [Dropbox](https://www.dropbox.com/s/g0btk9ctr1es39x/IMDB_processed.zip?dl=0)
 * DBLP - [Dropbox](https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=0)
 * Last.fm - [Dropbox](https://www.dropbox.com/s/jvlbs09pz6zwcka/LastFM_processed.zip?dl=0)
+
+The GloVe word vectors are obtained from [GloVe](https://nlp.stanford.edu/projects/glove/). Here is [the direct link](http://nlp.stanford.edu/data/glove.6B.zip) for the version we used in DBLP preprocessing.
 
 ### Usage
 
